@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Alves</h1>
 <h3 align="center">Data Science student with emphasis on machine learning and computer vision</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alves-bruno-ds" alt="alves-bruno-ds" /></a> </p>
-
 - 🌱 I’m currently learning **Pyhton,Pandas,Matplotlib,Seaborn,PowerBI**
 
 - 👨‍💻 All of my projects are available at [README.md](README.md)
