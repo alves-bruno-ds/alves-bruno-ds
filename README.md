@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Data Analisys, Machine Learning**
 
-- 📫 You can contact me by [e-mail] (mailto.cdados.br@gmail.com)
+- 📫 You can contact me by [e-mail] (https://mailto.cdados.br@gmail.com)
 
 - ⚡ Fun fact **Rock and metal bands inspire me**
 
