@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [README.md](README.md)
 
-- 📝 I regularly write articles on [MEDIUM](https://medium.com/@cdados.br)
+- 📝 I regularly write articles on [BLOG MEDIUM](https://medium.com/@cdados.br)
 
 - 💬 Ask me about: **Data Science, Data Analisys, Machine Learning**
 
