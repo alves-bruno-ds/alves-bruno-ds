@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bruno Alves</h1>
-<h3 align="center">Data Science student with emphasis on machine learning and computer vision</h3>
+<h2 align="left">Introduction 👋</h2>
+<h3 align="center">Hi there, I'm Bruno Alves, a Data Science student with emphasis on machine learning and computer vision</h3>
 
 - 🌱 I’m currently learning **Pyhton,Pandas,Matplotlib,Seaborn,PowerBI**
 
