@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [README.md](README.md)
 
-- 📝 I regularly write articles on [https://medium.com/@cdados.br](https://medium.com/@cdados.br)
+- 📝 I regularly write articles on [MEDIUM]("https://medium.com/@cdados.br")
 
 - 💬 Ask me about **Data Science, Data Analisys, Machine Learning**
 
-- 📫 How to reach me **cdados.br@gmail.com**
+- 📫 You can contact me by [e-mail] ("mailto.cdados.br@gmail.com")
 
 - ⚡ Fun fact **Rock and metal bands inspire me**
 
