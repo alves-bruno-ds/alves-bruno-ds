@@ -1,17 +1,17 @@
 <h2 align="left">Introduction 👋</h2>
-<h3 align="center">Hi there, I'm Bruno Alves, a Data Science student with emphasis on machine learning and computer vision</h3>
+<h4 align="left">Hi there, I'm Bruno Alves, a Data Science student with emphasis on machine learning and computer vision</h4>
 
-- 🌱 I’m currently learning **Pyhton,Pandas,Matplotlib,Seaborn,PowerBI**
+- 🌱 I’m currently learning:  **Pyhton,Pandas,Matplotlib,Seaborn,PowerBI**
 
 - 👨‍💻 All of my projects are available at [README.md](README.md)
 
 - 📝 I regularly write articles on [MEDIUM](https://medium.com/@cdados.br)
 
-- 💬 Ask me about **Data Science, Data Analisys, Machine Learning**
+- 💬 Ask me about: **Data Science, Data Analisys, Machine Learning**
 
-- 📫 You can contact me by [e-mail](https://mailto:cdados.br@gmail.com)
+- 📫 You can contact me by [e-mail](mailto:cdados.br@gmail.com)
 
-- ⚡ Fun fact **Rock and metal bands inspire me**
+- ⚡ Fun fact: **Rock and metal bands inspire me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
