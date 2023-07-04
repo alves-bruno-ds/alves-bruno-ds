@@ -56,4 +56,4 @@ _Nota: Os dados utilizados nos projeto são apenas para fins acadêmicos e exper
 - ### [Data Science e o Airbnb- Informações ao viajante.](https://medium.com/@cdados.br/data-science-e-o-airbnb-informa%C3%A7%C3%B5es-ao-viajante-33eafbe78639)
 - ### [Nuvem de Palavras (Wordcloud) Entendendo a essência do Slipknot](https://medium.com/@cdados.br/nuvem-de-palavras-wordcloud-entendendo-a-ess%C3%AAncia-do-slipknot-ab0f8c266b6a)
 - ### [Wordcloud em 10 passos](https://medium.com/@cdados.br/wordcloud-em-10-passos-4ecfee98a371)
-- ### [Ciência de Dados — Ser ou por que não ser?]([https://medium.com/@daniele.santiago/estrat%C3%A9gias-eficazes-para-lidar-com-conjuntos-de-dados-desbalanceados-5b873894483b](https://medium.com/@cdados.br/ci%C3%AAncia-de-dados-ser-ou-por-que-n%C3%A3o-ser-1b29851197ff)https://medium.com/@cdados.br/ci%C3%AAncia-de-dados-ser-ou-por-que-n%C3%A3o-ser-1b29851197ff)
+- ### [Ciência de Dados — Ser ou por que não ser?](https://medium.com/@cdados.br/ci%C3%AAncia-de-dados-ser-ou-por-que-n%C3%A3o-ser-1b29851197ff)
