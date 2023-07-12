@@ -57,4 +57,4 @@ _Nota: Os dados utilizados nos projeto são apenas para fins acadêmicos e exper
 - ### [Nuvem de Palavras (Wordcloud) Entendendo a essência do Slipknot](https://medium.com/@cdados.br/nuvem-de-palavras-wordcloud-entendendo-a-ess%C3%AAncia-do-slipknot-ab0f8c266b6a)
 - ### [Wordcloud em 10 passos](https://medium.com/@cdados.br/wordcloud-em-10-passos-4ecfee98a371)
 - ### [Ciência de Dados — Ser ou por que não ser?](https://medium.com/@cdados.br/ci%C3%AAncia-de-dados-ser-ou-por-que-n%C3%A3o-ser-1b29851197ff)
-- - ### [O Princípio de Gestalt - Seleção de Gráficos para apresentação de dados](https://medium.com/@cdados.br/o-princ%C3%ADpio-de-gestalt-as-7-regras-3e50785fa0d6)
+- ### [O Princípio de Gestalt - Seleção de Gráficos para apresentação de dados](https://medium.com/@cdados.br/o-princ%C3%ADpio-de-gestalt-as-7-regras-3e50785fa0d6)
